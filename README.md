@@ -74,10 +74,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annmathew23/annmathew23/output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/annmathew23/annmathew23/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/annmathew23/annmathew23/output/snake.svg" alt="Snake animation" />
 
 ###
 
