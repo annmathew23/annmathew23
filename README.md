@@ -1,16 +1,19 @@
 <div align="center">
-  <img height="255" src="https://imgur.com/a/tLA74k4"  />
-  </div>
+  <img height="255" src="https://i.imgur.com/wvClMyy.png" />
+</div>
+
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/annmathew23/count.svg?"  />
+</div>
 
+###
 <div align="center">
   <a href="https://open.spotify.com/user/m873k5q2k75rtwyli7px55r1y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=m873k5q2k75rtwyli7px55r1y&count=1" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
 <p>Tools:</p> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -48,11 +51,13 @@
 
 ###
 
-<p align="left"></p>
+<div align="left">
+<p>Connect with me:</p>
+ <a href="https://www.linkedin.com/in/ann-mathew2301/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
 
-###
-
-<p align="left"></p>
+  </div>
 
 ###
 
@@ -71,19 +76,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/annmathew23/count.svg?"  />
-</div>
-
-###
 
 
-<div align="left">
-<p>Connect with me</p>
- <a href="https://www.linkedin.com/in/ann-mathew2301/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
 
-  </div>
 
 
