@@ -1,8 +1,13 @@
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&width=400&lines=Hello+there!;I+am+Ann+Mathew.)
 
 
-###
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=50&color=00FF00&width=400&lines=Hello+there!;I+am+Ann+Mathew.)
+
+<h3 align="center">A passionate software developer</h3>
+
+<br/>
+
+ 
 <div align="center">
   <img src="https://profile-counter.glitch.me/annmathew23/count.svg?"  />
 </div>
@@ -13,7 +18,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=m873k5q2k75rtwyli7px55r1y&count=1" alt="Spotify recently played"  />
   </a>
 </div>
-<p>Tools:</p> 
+
+
+<p>Toolset:</p> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -59,7 +66,7 @@
   </div>
 
 ###
-
+<p>Stats:</p> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annmathew23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annmathew23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
