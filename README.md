@@ -3,7 +3,7 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=50&color=00FF00&width=400&lines=Hello+there!;I+am+Ann+Mathew.)
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer.</h3>
 
 <br/>
 
