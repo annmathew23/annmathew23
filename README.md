@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="255" src="https://i.imgur.com/wvClMyy.png" />
-</div>
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&width=400&lines=Hello+there!;I+am+Ann+Mathew.)
 
 
 ###
