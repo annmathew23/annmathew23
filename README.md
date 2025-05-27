@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<p align="center" style="margin-bottom: 30px;"><b>Toolset:</b></p> 
+<p align="left" style="margin-bottom: 30px;"><b>Toolset:</b></p> 
 
 <div align="center" style="margin-bottom: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
 </div>
 
-<div align="center" style="margin-bottom: 40px;">
+<div align="left" style="margin-bottom: 40px;">
   <p><b>Connect with me:</b></p>
   <a href="https://www.linkedin.com/in/ann-mathew2301/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -45,7 +45,7 @@
   </a>
 </div>
 
-<p align="center" style="margin-bottom: 30px;"><b>Stats:</b></p> 
+<p align="left" style="margin-bottom: 30px;"><b>Stats:</b></p> 
 
 <div align="center" style="margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=annmathew23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
