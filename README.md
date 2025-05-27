@@ -34,8 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
 </div>
+
 <p align="left" style="margin-bottom: 30px;"><b>Connect with me:</b></p> 
-<div align="centre" style="margin-bottom: 40px;">
+
+<div align="center" style="margin-bottom: 40px;">
    <a href="https://www.linkedin.com/in/ann-mathew2301/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
